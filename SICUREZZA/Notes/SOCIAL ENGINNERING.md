@@ -28,8 +28,4 @@ Chi sta dietro agli attacchi di ingegneria sociale sono
 - [[DUMPSTER DIVING]]
 - [[SHOULDER SURFING]]
 - [[TAILGATING]]
-
-
-
-
 #### REFERENZE:[Kevin Mitnick](https://www.brainyquote.com/authors/kevin-mitnick-quotes), https://www.youtube.com/watch?v=Usu9z0feHug, https://www.unocloudbackup.it/4-fasi-della-social-engineering/

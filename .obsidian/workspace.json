@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "right": {
     "id": "507885392de600a1",
@@ -192,6 +191,9 @@
   },
   "active": "ffb22b043968e020",
   "lastOpenFiles": [
+    "SICUREZZA/Images/Pasted image 20241028154135.png",
+    "SICUREZZA/Images/Pasted image 20241028153930.png",
+    "SICUREZZA/Images/Pasted image 20241028153809.png",
     "SICUREZZA/Notes/EMAIL PHISHING.md",
     "Pasted image 20241028154135.png",
     "Pasted image 20241028153930.png",
@@ -210,11 +212,9 @@
     "SICUREZZA/Notes/SPEAR PHISHING.md",
     "SICUREZZA/Images/Pasted image 20241028151441.png",
     "SICUREZZA/Images/Pasted image 20241028151314.png",
-    "SICUREZZA/Images/Pasted image 20241028150250.png",
     "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
     "SICUREZZA/Notes/MALWARE.md",
     "SICUREZZA/Notes/PROTEZIONE DAI MALWARE.md",
-    "Pasted image 20241022110848.png",
     "SICUREZZA/Notes/RANSOMWARE.md",
     "SICUREZZA/Notes/COMPROMISSIONE DI DISPOSITIVI.md",
     "SICUREZZA/Notes/CRYPTOMINERS.md",
