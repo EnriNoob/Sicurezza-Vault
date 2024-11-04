@@ -11,23 +11,6 @@ Uno dei gruppi più attivi che ottengono credenziali.
 	- Spacciarsi per IT o helpdesk staff per farsi condividere lo schermo (remote-access)
 	- Spacciarsi per IT per farsi mandare la OTP o un MFA code
 	- Sim Swapping
-#### FEDERALI (nation state):
-entità che lavorano per il governo o i militari di uno Stato o che operano sotto la loro direzione. Questi attori hanno in genere accesso a supporto, risorse, formazione e strumenti significativi e sono in grado di progettare ed eseguire campagne molto sofisticati ed efficaci. Gli obbiettivi in genere sono:
-- ==**spionaggio**== 
-- ==**Interruzione/Distruzione**== 
--  ==**messaggio politico**==
-- monitoraggio
-- fake news (per influenzare l'opinione pubblica)
-#### HACKTIVISTS:
-A differenza degli hacker gli hacktivisti agiscono per motivi:
-- personali
-- politici 
-- religiosi
-- ideologici
-Per quanto riguarda le tattiche/tecniche degli attacchi sono le stesse di tutti gli altri cyber criminali ma in generale eseguono:
-- DDoS
-- Data Breaches
-- Data Wipers(eliminazione)
-- Propaganda
+
 
  #### Referenze: https://www.redhotcyber.com/post/i-broker-vendono-gli-accessi-alle-reti-delle-aziende-italiane-ecco-come-funziona/
