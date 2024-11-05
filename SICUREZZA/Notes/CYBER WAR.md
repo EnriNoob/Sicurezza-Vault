@@ -83,4 +83,8 @@ E un'attacco cibernetico massivo verso un'infrastruttura di un governo nemico
 - ##### **Attacchi a sorpresa**
 	Lo scopo di questi attacchi è quello di effettuare un attacco massiccio che il nemico non si aspetta, permettendo all’attaccante di indebolire le sue difese. Può essere eseguito per preparare il terreno per un attacco fisico nel contesto della guerra ibrida.
 
+#### Esempi di Cyber War
+
+- [[STUXNET]]
+- [[CENTRALE ELETTRICA UCRAINA]]
 #### REFERENZE: https://www.cybersecurity360.it/nuove-minacce/cyberwar-cose-tipologie-di-attacchi-cibernetici-e-soluzioni-per-combattere-la-guerra-ibrida/, https://www.redhotcyber.com/post/soc-e-sistemi-ics-quali-componenti-del-sistema-devono-essere-assolutamente-collegati/
