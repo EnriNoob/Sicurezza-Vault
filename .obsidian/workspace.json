@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICUREZZA/Notes/CYBER WAR.md",
+                "file": "USER AUTHENTICATION.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CYBER WAR"
+              "title": "USER AUTHENTICATION"
             }
           }
         ]
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SICUREZZA/Notes/MALWARE.md"
+                "file": "SICUREZZA/Notes/VISHING.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MALWARE"
+              "title": "Outline of VISHING"
             }
           },
           {
@@ -175,23 +175,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8489ac93ce292290",
+  "active": "209a6a327ef8b456",
   "lastOpenFiles": [
-    "SICUREZZA/Images/Pasted image 20241105103743.png",
-    "SICUREZZA/Images/Pasted image 20241105102720.png",
-    "SICUREZZA/Images/Pasted image 20241105102602.png",
-    "SICUREZZA/Images/Pasted image 20241105101647.png",
-    "SICUREZZA/Images/Pasted image 20241105101441.png",
-    "SICUREZZA/Images/Pasted image 20241105095311.png",
-    "STUXNET.md",
-    "Pasted image 20241105103743.png",
-    "Pasted image 20241105102720.png",
-    "Pasted image 20241105102602.png",
-    "Pasted image 20241105101647.png",
-    "Pasted image 20241105101441.png",
-    "LNK windows.md",
-    "SICUREZZA/Notes/CYBER WAR.md",
+    "Pasted image 20241111160130.png",
+    "Pasted image 20241111155331.png",
+    "Pasted image 20241111155032.png",
+    "Pasted image 20241111154556.png",
+    "Pasted image 20241111153557.png",
+    "Pasted image 20241111152511.png",
+    "Pasted image 20241111152347.png",
+    "Pasted image 20241111152055.png",
+    "Pasted image 20241111151020.png",
+    "Pasted image 20241111150549.png",
+    "Pasted image 20241111150505.png",
+    "SICUREZZA/Notes/PROPRIETA DI SICUREZZA.md",
+    "USER AUTHENTICATION.md",
     "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
+    "SICUREZZA/Notes/INSTALLATION.md",
+    "SICUREZZA/Notes/VISHING.md",
+    "SICUREZZA/Notes/CENTRALE ELETTRICA UCRAINA.md",
+    "SICUREZZA/Notes/CYBER WAR.md",
+    "SICUREZZA/Notes/STUXNET.md",
+    "SICUREZZA/Notes/LNK windows.md",
     "SICUREZZA/Notes/WORMS.md",
     "SICUREZZA/Notes/THREAT ACTOR.md",
     "SICUREZZA/Notes/HACKTIVISTS.md",
@@ -208,11 +213,6 @@
     "SICUREZZA/Notes/MALWARE.md",
     "SICUREZZA/Notes/MITRE.md",
     "SICUREZZA/Notes/EMAIL PHISHING.md",
-    "SICUREZZA/Notes/SOCIAL ENGINNERING.md",
-    "SICUREZZA/Notes/PHISHING.md",
-    "SICUREZZA/Notes/WHALING.md",
-    "SICUREZZA/Notes/SHOULDER SURFING.md",
-    "SICUREZZA/Notes/DUMPSTER DIVING.md",
     "SICUREZZA/Notes",
     "SICUREZZA/Images",
     "Untitled",
