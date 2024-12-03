@@ -47,7 +47,7 @@ Nel dettaglio l'architettura contiene altri componenti di aiuto e di contorno
 	è il componente basico della Policy, è quello che permette di fornire l'effetto desiderato della Policy. E un'espressione booleana che deve essere valutata
 	![[Pasted image 20241203105005.png]]
 - **Target**
-	Specifica l'insieme delle richieste a cui applicare le Policy,Rule
+	Specifica l'insieme delle richieste a cui applicare le Policy e Rule
 	![[Pasted image 20241203105400.png]]
 	Anyof elemento Or per gli elementi AllOf
 	AllOf elemento And per gli elementi Match
