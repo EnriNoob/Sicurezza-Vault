@@ -83,4 +83,11 @@ In sostanza ci permette anche di registrare a delle applicazioni di terze parti 
 
 Trattandosi di un protocollo standard, OpenID Connect consente ai client di tutti i tipi, compresi quelli basati su Web, dispositivi mobili e JavaScript, di richiedere e ricevere informazioni sulle sessioni autenticate e sugli utenti finali.
 
+#### Flussi di autorizzazione
+- [[Authorization Code Grant Flow]]
+- [[Authorization Code Grant Flow with PCKE]]
+- [[Resource Owner Password]]
+- [[Client credential Flow]]
+- [[Device Flow]]
+
 #### REFERENZE: https://blog.osservatori.net/it_it/identita-digitale-significato-funzionamento, https://www.cybersecurity360.it/soluzioni-aziendali/oauth-2-0-cose-e-come-funziona-lo-standard-aperto-per-lautenticazione-sicura-online/, https://www.cybersecurity360.it/soluzioni-aziendali/openid-connect-cose-a-cosa-serve-e-perche-e-importante/
