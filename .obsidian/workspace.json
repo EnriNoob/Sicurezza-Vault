@@ -4,22 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "b5cba540c91f8783",
+        "id": "4a0e3a57cae76242",
         "type": "tabs",
+        "dimension": 62.03779786359901,
         "children": [
           {
-            "id": "209a6a327ef8b456",
+            "id": "a8d2c126c080930a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
+                "file": "SICUREZZA/Notes/ACTIONS ON OBJECTIVES.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "INDICE CYBERSECURITY"
+              "title": "ACTIONS ON OBJECTIVES"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1150c836d48fceb3",
+        "type": "tabs",
+        "dimension": 37.96220213640098,
+        "children": [
+          {
+            "id": "b1af945ccdb650f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "SICUREZZA/Notes/ACTIONS ON OBJECTIVES.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1416772941576967,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of ACTIONS ON OBJECTIVES"
             }
           }
         ]
@@ -41,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SICUREZZA/Notes/MALWARE.md",
+                "file": "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MALWARE"
+              "title": "Backlinks for INDICE CYBERSECURITY"
             }
           },
           {
@@ -174,44 +229,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "209a6a327ef8b456",
+  "active": "a8d2c126c080930a",
   "lastOpenFiles": [
-    "NIST CYBER SECURITY FRAMEWORK.md",
-    "SICUREZZA/Notes/nist.md",
-    "SICUREZZA/Notes/livelli CSF.md",
-    "SICUREZZA/Notes/NIST CYBER SECURITY FRAMExWORK.md",
-    "SICUREZZA/Notes/NIST CYBER SECURITY FRAMEWORK.md",
-    "SICUREZZA/Images/Pasted image 20241210120823.png",
-    "SICUREZZA/Images/Pasted image 20241210114254.png",
-    "SICUREZZA/Images/Pasted image 20241210111016.png",
-    "SICUREZZA/Images/Pasted image 20241210110358.png",
-    "SICUREZZA/Images/Pasted image 20241210110348.png",
-    "SICUREZZA/Images/Pasted image 20241210110115.png",
-    "SICUREZZA/Images/Pasted image 20241210104956.png",
-    "SICUREZZA/Images/Pasted image 20241203130724.png",
-    "SICUREZZA/Images/Pasted image 20241203130603.png",
-    "SICUREZZA/Images/Pasted image 20241203130542.png",
+    "SICUREZZA/Notes/CYBER KILL CHAIN.md",
+    "SICUREZZA/Notes/COMMAND AND CONTROL.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "SICUREZZA/Notes/INSTALLATION.md",
+    "SICUREZZA/Notes/EXPLOITATION.md",
+    "SICUREZZA/Notes/WEAPONIZATION.md",
+    "SICUREZZA/Images/Pasted image 20241028153538.png",
     "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
-    "livelli CSF.md",
-    "nist.md",
-    "NIST CYBER SECURITY FRAMExWORK.md",
-    "SICUREZZA/Notes/CYBER RISK MANAGEMENT.md",
-    "TEMPLATES/Section.md",
-    "SICUREZZA/Notes/XACML.md",
-    "SICUREZZA/Notes/ACCESS CONTROL.md",
-    "TEMPLATES/Untitled.md",
-    "SICUREZZA/Notes/Attribute Based Access Control (ABAC).md",
-    "SICUREZZA/Notes/Role Based Access Control (RBAC).md",
-    "SICUREZZA/Notes/Discretionary Access Control (DAC).md",
-    "SICUREZZA/Notes/Authorization Code Grant Flow.md",
-    "DAC.md",
-    "SICUREZZA/Notes/USER AUTHENTICATION.md",
-    "SICUREZZA/Notes/Authorization Code Grant Flow with PCKE.md",
-    "SICUREZZA/Notes/Saml flow.md",
-    "SICUREZZA/Notes/SINGLE SIGN ON.md",
-    "SICUREZZA/Notes/Resource Owner Password.md",
-    "USER AUTHENTICATION.md",
-    "Saml flow.md",
+    "SICUREZZA/Images/Pasted image 20241028151942.png",
+    "SICUREZZA/Images/Pasted image 20241028151314.png",
+    "SICUREZZA/Images/Pasted image 20241022111208.png",
+    "SICUREZZA/Images/Pasted image 20241022094058.png",
+    "SICUREZZA/Images/Pasted image 20241014142942.png",
+    "SICUREZZA/Images/Pasted image 20241010172024.png",
+    "SICUREZZA/Images/Pasted image 20241210120823.png",
+    "SICUREZZA/Images/Pasted image 20250107155910.png",
+    "SICUREZZA/Images/Pasted image 20241111160130.png",
+    "SICUREZZA/Notes/INTRODUZIONE PRIVACY.md",
+    "SICUREZZA/Notes/DELIVERY.md",
+    "SICUREZZA/Notes/CYBERSPAZIO.md",
+    "SICUREZZA/Notes/DUMPSTER DIVING.md",
+    "SICUREZZA/Notes/DROPPERS E DOWNLOADERS.md",
+    "SICUREZZA/Notes/RECONNAISSANCE.md",
+    "SICUREZZA/Notes/MALWARE.md",
+    "SICUREZZA/Notes/MITRE.md",
+    "SICUREZZA/Notes/FRAMEWORK MITRE ATT&CK.md",
+    "SICUREZZA/Notes/TECNICHE.md",
+    "SICUREZZA/Notes/TATTICHE.md",
+    "SICUREZZA/Notes/CYBERSICUREZZA.md",
+    "SICUREZZA/Notes/THREAT ACTOR.md",
+    "SICUREZZA/Notes/ACTIONS ON OBJECTIVES.md",
+    "SICUREZZA/Notes/PROPRIETA DI SICUREZZA.md",
+    "SICUREZZA/Notes/KEY LOGGERS.md",
+    "SICUREZZA/Notes/LNK windows.md",
+    "SICUREZZA/Notes/ROOTKIT.md",
+    "SICUREZZA/Notes/CYBER CRIMINALI.md",
     "SICUREZZA/Notes",
     "SICUREZZA/Images",
     "Untitled",
