@@ -1,6 +1,6 @@
 #### Data: 10/10/2024 - 17:03
 
-Lo CyberSpazio è l'insieme di vari elementi che compongono uno spazio virtuale situato in rete:
+Lo CyberSpazio è l'insieme di vari elementi che compongono uno spazio virtuale situato in rete, ed è composto da
 
 - UTENTI
 - DISPOSITIVI TECNOLOGICI

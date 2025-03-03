@@ -24,6 +24,11 @@ Un sistema di gestione di identità digitali fornisce una soluzione centralizzat
 
 In un contesto aziendale IT, l'obbiettivo principale è identificare un utente, autenticarlo e autorizzarlo all’accesso secondo il profilo e ruolo della sua identità digitale. Una volta stabilita, l’identità digitale deve essere mantenuta, modificata e monitorata in ogni momento del ciclo di vita del procedimento di accesso, ovvero durante il provisioning del servizio, l’onboarding dell’utenza e il suo offboarding e cancellazione al momento appropriato.
 
+Gli attori coinvolti nel digitale identity management sono
+- utente: entità digitale
+- identity provider: è un sistema che permette di creare, salvare e gestire identità digitali
+- service provider:  sono tutte applicazioni di terze parti che forniscono un servizio all'utente
+
 #### Single Sign On (SSO) 
 
 E un processo, una schema di autenticazione in cui l'utente ha bisogno di accedere e autenticarsi una volta sola, tramite un unico set di credenziali, una volta fatto ciò oltre ad accedere alle sue risorse autorizzate l'utente non ha più bisogno di autenticarsi una seconda volta, perchè è il compito viene delegato all'Identity provider 

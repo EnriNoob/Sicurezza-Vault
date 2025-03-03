@@ -1,6 +1,7 @@
 #### Data: 19/11/2024 - 16:15
 
-Consiste da parte dell'utente di fornire le credenziali spesso attravero con un form interattivo
+L'applicazione client è 
+Consiste da parte dell'utente di fornire le credenziali spesso attraverso con un form interattivo
 
 1. L'utente clicca su **Login** all'interno dell'applicazione e inserisce le proprie credenziali.
 2. La tua applicazione inoltra le credenziali dell'utente al Authorization Server (all'endpoint `/oauth/token`).

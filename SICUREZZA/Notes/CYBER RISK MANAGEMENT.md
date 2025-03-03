@@ -4,7 +4,7 @@
 ---
 #### Cosa è
 
-é un processo **proattivo di monitoraggio** creato all'interno di un'azienda per identificare gli asset digitali, revisionare dei sistemi di sicurezza presenti e implementare soluzioni per localizzare, prioritizzare, gestiree monitorare  i **rischi di sicurezza**  che possono imporsi come minacce per l'azienda
+é un processo **proattivo di monitoraggio** creato all'interno di un'azienda per identificare gli asset digitali, revisionare dei sistemi di sicurezza presenti e implementare soluzioni per localizzare, prioritizzare, gestire e  monitorare  i **rischi di sicurezza**  che possono imporsi come minacce per l'azienda
 
 Le aziende hanno sempre più bisogno di adottare un sistema per **aiutarli a prendere decisioni in termini di tempo e soldi** per proteggere gli asset e servizi dai rischi di attacchi informatici. Un obbiettivo della cyber risk management è quello di informare e migliorare queste decisioni
 

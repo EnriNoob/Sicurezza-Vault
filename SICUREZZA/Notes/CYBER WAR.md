@@ -9,10 +9,9 @@ Una CyberWar é un attacco informatico vasto, premeditato e studiato che vanno a
 L'obiettivo è quello di recare un danno molto grave agli stati e persino provocare perdite di vite umane
 
 Questi attacchi sono svolti da gruppi di hacker sostenuti dallo stato o organizzazioni terroristiche
-
 #### Cosa significa critico
 
-Per critico intendiamo quando una risorsa(asset) persa o compromessa può portare a
+Per critico intendiamo quando una risorsa(asset) persa o compromessa che può portare a
 - un impatto significante sulla vita di una nazione per quanto riguarda la sua sicurezza o il funzionamento
 - impatto dannoso sulla disponibilità, integrità e consegna di servizi essenziali
 
@@ -43,7 +42,7 @@ La fusione di queste due componenti porta lo svantaggio della sicurezza (colpa d
 
 #### SCADA (SuperVisory Control And Data Acquisition)
 
-E un componente della ICS che fa da controllo di supervisione e acquisizione dati. Questo componente è gestito da un centro operativo distante
+E un componente della ICS che fa da controllo di supervisione e acquisizione dati. Questo componente è gestito da un centro operativo distante (da remoto )
 
 Ogni sistema SCADA, nella sua generalità, si inserisce all’interno di una architettura che prevede:
 
@@ -67,13 +66,13 @@ E un'attacco cibernetico massivo verso un'infrastruttura di un governo nemico
 - ##### Spionaggio
 	Si riferisce al monitoraggio di altri paesi per rubare segreti. Nella guerra informatica, questo può comportare l’uso di botnet, una rete di computer controllata e composta da dispositivi infettati da malware specializzato, detti bot, o attacchi di spear phishing, una truffa tramite comunicazioni elettroniche o e-mail indirizzata a una persona, un’organizzazione o un’azienda specifica per compromettere i sistemi informatici sensibili prima di esfiltrare informazioni sensibili.	
 - ##### Malware e RansomWare
-	Per decifrare o peggio fare il wipe delle informazioni del target
+	Per cifrare o peggio fare il wipe delle informazioni del target
 - ##### Wipers
 	Unico scopo di cancellare i dati 
 - ##### Sabotaggio
 	Compromettere le infrastrutture per un periodo limitato di tempo
 - ##### Attacchi DDos
-	mpediscono agli utenti legittimi di accedere a un sito web inondandolo di richieste false e costringendo il sito web a gestire queste richieste.
+	impediscono agli utenti legittimi di accedere a un sito web inondandolo di richieste false e costringendo il sito web a gestire queste richieste.
 - ##### Attacchi alla rete elettrica
 	Attaccare la rete elettrica permette agli aggressori di disabilitare i sistemi critici, interrompere le infrastrutture e potenzialmente provocare danni fisici. Gli attacchi alla rete elettrica possono anche interrompere le comunicazioni e rendere inutilizzabili servizi come messaggi di testo e comunicazioni. Questo tipo di attacco può essere utilizzato per interrompere operazioni e sistemi critici e bloccare l’accesso a siti web sensibili da parte di civili, militari e personale di sicurezza, o enti di ricerca.
 - ##### Attacchi di propaganda

@@ -4,7 +4,7 @@ E un metodo che garantisce diritto di accesso basato su regole specificate dagli
 
 Se un utente è in possesso di una certa risorsa, allora egli può decidere su come gli altri possono interagire con questa risorsa, cioè concede dei permessi, quindi è appunto discrezionale
 
-Il Dac è molto facile da implementare ma pecca in termini di efficienza difficoltà nel mantenere gestione dei concessi dei permessi sulle risorse, il che lo porta anche ad essere meno sicuro rispetto ad altri modelli
+Il Dac è molto facile da implementare ma pecca in termini di efficienza di difficoltà nel mantenere gestione dei concessi dei permessi sulle risorse, il che lo porta anche ad essere meno sicuro rispetto ad altri modelli
 #### Controllo di accesso delle strutture
 
 - ##### Matrice
@@ -13,4 +13,3 @@ Il Dac è molto facile da implementare ma pecca in termini di efficienza diffico
 	![[Pasted image 20241126110319.png]]
 - ##### Capability List
 	![[Pasted image 20241126110459.png]]
-#### REFERENZE:

@@ -1,5 +1,4 @@
 #### Data: 14/10/2024 - 09:46
-#### Nota precedente 
 
 #### COSA E:
 Il framework MITRE ATT&CK è una ==**base di conoscenza**== universalmente ==**accessibile**== e costantemente aggiornata per modellare, rilevare, impedire e ==**contrastare**== le minacce alla [cybersecurity](https://www.ibm.com/it-it/topics/cybersecurity) sulla base dei comportamenti antagonisti noti dei criminali informatici.

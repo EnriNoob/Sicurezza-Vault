@@ -1,4 +1,4 @@
-#### Data: 10/12/2024 - 10:34
+<#### Data: 10/12/2024 - 10:34
 
 
 ---
@@ -24,7 +24,6 @@ Il framework consiste di tre componenti
 	A un livello più dettagliato, il Core è suddiviso in 23 **Categorie**, distribuite tra le cinque Funzioni.
 	![[Pasted image 20241210110115.png]]
 	- **govern**
-		
 
 	- **Identificazione**
 		La funzione di identificazione include categorie come la gestione degli asset, l'ambiente aziendale, la governance, la valutazione dei rischi, la strategia di gestione dei rischi e la gestione dei rischi della supply chain.

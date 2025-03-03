@@ -29,7 +29,7 @@ Ci sono molti sistemi di autenticazione ma si basano sempre su tre principi:
 - ##### Fattori di possesso 
 	Sono cose o oggetti che un utente possiede, di solito sono dispositivi hardware che forniscono token di sicurezza, molte persone utilizzano dispositivi mobili che utilizzano app di autenticazione che generano password monouso OTP
 - ##### Fattori di inerenza
-	Sono le caratteristiche fisiche esclusive dell'utente, comprendo tutti i metodi di autenticazione biometrici per l'autenticazione attraverso la scansione facciale o impronta digitale
+	Sono le caratteristiche fisiche esclusive dell'utente, comprende tutti i metodi di autenticazione biometrici per l'autenticazione attraverso la scansione facciale o impronta digitale
 - ##### Fattori comportamentali 
 	Questi fattori seguono modelli comportamentali come l'intervallo di indirizzi IP tipico di una persona, le ore di attività e la velocità media di digitazione.
 
@@ -69,6 +69,7 @@ La cosa peggiore è che se già si usano password "facili", gli utenti tendono a
 #### Dove vengono salvate le password nel sistema operativo
 
 Su windows le password vengono salvate nel SAM (Security account manager) ovvero un database file che salva le password degli utenti. Questo file risiede sotto la directory System32/config ed è montata su HKLM/SAM e ci vogliono i privilegi di sistema per visualizzare questo file
+
 
 Il Sam può essere salvato nei registri di windows, in questo modo gli attaccanti potrebbero fare una copia con il comando reg
 

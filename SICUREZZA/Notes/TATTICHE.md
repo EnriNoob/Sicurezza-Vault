@@ -7,8 +7,8 @@ La tattica non è altro il _"perchè"_ di un attacco, ovvero è ==**l'obiettivo 
 - **_Accesso iniziale**:_ penetrazione nel sistema o nella rete di destinazione  
 - **_Esecuzione_**: esecuzione di [malware](https://www.ibm.com/it-it/topics/malware) o codice dannoso sul sistema esposto a pericolo      
 - **_Persistenza_**: mantenimento dell'accesso al sistema compromesso (in caso di chiusura o riconfigurazioni).  
-- **_Escalation dei privilegi_**: acquisizione di accesso o autorizzazioni di livello superiore (ad esempio, passaggio dall'accesso utente a quello di amministratore).  
-- **_Evasione della difesa_**: evita il rilevamento una volta all'interno di un sistema.  
+- **_Escalation dei privilegi_**: acquisizione di accesso o autorizzazioni di livello superiore (ad esempio, passaggio dall'accesso utente a quello di amministratore).
+- **_Evasione della difesa_**: evita il rilevamento una volta all'interno di un sistema.
 - **_Accesso alle credenziali_**: furto di nomi utente, password e altre credenziali di accesso.  
 - **_Rilevamento_**: ricerca dell'ambiente di destinazione per scoprire a quali risorse è possibile accedere o controllare per supportare un attacco pianificato.  
 - **_Movimento laterale_**: acquisizione dell'accesso a risorse aggiuntive all'interno del sistema.  

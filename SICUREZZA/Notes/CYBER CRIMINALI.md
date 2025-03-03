@@ -2,7 +2,7 @@
 
 Sono individui o gruppi di persone che usano la tecnologia per attuare ==**attività malevole**== su sistemi digitali o reti con l'intenzione di ==**rubare informazioni**== sensibili di un'azienda o dati personali per ==**generare del profitto**==
 #### ACCESS BROKERS:
-questi cyber criminali, che hanno conoscenze nelle tecniche di penetration test, rubano soltanto le credenziali di persone per poi venderli nel mercato undeground ad altri attaccanti(in media 5000$) e il prezzo varia dall'entità a cui si rubano le credenziali 
+questi cyber criminali, che hanno conoscenze nelle tecniche di penetration test, r==ubano soltanto le credenziali di persone per poi venderli nel mercato undeground ad altri attaccanti==(in media 5000$) e il prezzo varia dall'entità a cui si rubano le credenziali 
 
 #### SCATTERED SPIDER:
 Uno dei gruppi più attivi che ottengono credenziali.

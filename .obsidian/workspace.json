@@ -4,17 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0e3a57cae76242",
+        "id": "fcdffbdd9a1837d0",
         "type": "tabs",
-        "dimension": 62.03779786359901,
         "children": [
           {
-            "id": "a8d2c126c080930a",
+            "id": "ead6eab41947db00",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "INDICE CYBERSECURITY"
+            }
+          },
+          {
+            "id": "aa2c7e26b52c7bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICUREZZA/Notes/ACTIONS ON OBJECTIVES.md",
+                "file": "SICUREZZA/Notes/MALWARE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,54 +54,93 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ACTIONS ON OBJECTIVES"
+              "title": "MALWARE"
             }
-          }
-        ]
-      },
-      {
-        "id": "1150c836d48fceb3",
-        "type": "tabs",
-        "dimension": 37.96220213640098,
-        "children": [
+          },
           {
-            "id": "b1af945ccdb650f1",
+            "id": "46e48a79bc8c280f",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "SICUREZZA/Notes/ACTIONS ON OBJECTIVES.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.1416772941576967,
-                  "close": true
+                "file": "SICUREZZA/Notes/Saml flow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of ACTIONS ON OBJECTIVES"
+              "icon": "lucide-file",
+              "title": "Saml flow"
+            }
+          },
+          {
+            "id": "61666a9b20bb7817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SICUREZZA/Notes/ACCESS CONTROL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ACCESS CONTROL"
+            }
+          },
+          {
+            "id": "05f89ef5900c26b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SICUREZZA/Notes/USER AUTHENTICATION.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "USER AUTHENTICATION"
+            }
+          },
+          {
+            "id": "369c1987a85201e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 369.5024719238281
   },
   "right": {
     "id": "507885392de600a1",
@@ -144,46 +208,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e475879c10665785",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for INDICE CYBERSECURITY"
-            }
-          },
-          {
-            "id": "bb7ab1753e3d20fd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MALWARE.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from MALWARE"
-            }
-          },
-          {
             "id": "376bd98991ded723",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -195,10 +228,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SICUREZZA/Notes/VISHING.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of VISHING"
+              "title": "Outline"
             }
           },
           {
@@ -210,9 +245,42 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0607856484cb7ce0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SICUREZZA/Notes/Client credential Flow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Client credential Flow"
+            }
+          },
+          {
+            "id": "315964aea9a778c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SICUREZZA/Notes/Client credential Flow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Client credential Flow"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,48 +294,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8d2c126c080930a",
+  "active": "8489ac93ce292290",
   "lastOpenFiles": [
-    "SICUREZZA/Notes/CYBER KILL CHAIN.md",
-    "SICUREZZA/Notes/COMMAND AND CONTROL.md",
+    "Excalidraw/Drawing 2025-02-04 10.14.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-04 10.16.02.excalidraw.md",
+    "TEMPLATES/Math Paragraph.md",
+    "SICUREZZA/Notes/CYBERSPAZIO.md",
+    "DATABASE ANONYMITY.md",
+    "SICUREZZA/Notes/differential privacy.md",
+    "SICUREZZA/Notes/T-Closeness.md",
+    "SICUREZZA/Notes/SPEARPHISHING VOICE.md",
+    "SICUREZZA/Notes/SPEARPHISHING VIA SERVICE.md",
+    "SICUREZZA/Notes/SPEARPHISHING LINK.md",
+    "SICUREZZA/Notes/SPEARPHISHING ATTACHMENT.md",
+    "SICUREZZA/Notes/SPEAR PHISHING VIA SERVICE.md",
+    "SICUREZZA/Notes/Mandatory Access Control(MAC).md",
+    "SICUREZZA/Notes/L-Diversity.md",
+    "SICUREZZA/Notes/K-Anonymity.md",
+    "SICUREZZA/Notes/DATABASE ANONYMITY.md",
+    "Mandatory Access Control(MAC).md",
+    "SICUREZZA/Images/IMG_C007A8DD23BE-1.jpeg",
+    "SICUREZZA/Notes/CYBERSICUREZZA.md",
+    "SICUREZZA/Images/Pasted image 20250227192621.png",
+    "SICUREZZA/Images/Pasted image 20250207163803.png",
+    "SICUREZZA/Images/Pasted image 20250207163720.png",
+    "SICUREZZA/Images/Pasted image 20250207163420.png",
+    "SICUREZZA/Images/Pasted image 20250207163252.png",
+    "SICUREZZA/Images/Pasted image 20250207162551.png",
+    "SICUREZZA/Images/Pasted image 20250207162519.png",
+    "SICUREZZA/Images/Pasted image 20250207094956.png",
+    "SICUREZZA/Images/Pasted image 20250207094533.png",
+    "SICUREZZA/Notes/PROPRIETA DI SICUREZZA.md",
+    "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
+    "SICUREZZA/Notes/USER AUTHENTICATION.md",
+    "differential privacy.md",
+    "SICUREZZA/Notes/MALWARE.md",
+    "SICUREZZA/Notes/Saml flow.md",
+    "SICUREZZA/Notes/ACCESS CONTROL.md",
+    "SICUREZZA/Notes/XACML.md",
+    "Excalidraw",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "SICUREZZA/Notes/INSTALLATION.md",
-    "SICUREZZA/Notes/EXPLOITATION.md",
-    "SICUREZZA/Notes/WEAPONIZATION.md",
-    "SICUREZZA/Images/Pasted image 20241028153538.png",
-    "SICUREZZA/Notes/INDICE CYBERSECURITY.md",
-    "SICUREZZA/Images/Pasted image 20241028151942.png",
-    "SICUREZZA/Images/Pasted image 20241028151314.png",
-    "SICUREZZA/Images/Pasted image 20241022111208.png",
-    "SICUREZZA/Images/Pasted image 20241022094058.png",
-    "SICUREZZA/Images/Pasted image 20241014142942.png",
-    "SICUREZZA/Images/Pasted image 20241010172024.png",
-    "SICUREZZA/Images/Pasted image 20241210120823.png",
-    "SICUREZZA/Images/Pasted image 20250107155910.png",
-    "SICUREZZA/Images/Pasted image 20241111160130.png",
-    "SICUREZZA/Notes/INTRODUZIONE PRIVACY.md",
-    "SICUREZZA/Notes/DELIVERY.md",
-    "SICUREZZA/Notes/CYBERSPAZIO.md",
-    "SICUREZZA/Notes/DUMPSTER DIVING.md",
-    "SICUREZZA/Notes/DROPPERS E DOWNLOADERS.md",
-    "SICUREZZA/Notes/RECONNAISSANCE.md",
-    "SICUREZZA/Notes/MALWARE.md",
-    "SICUREZZA/Notes/MITRE.md",
-    "SICUREZZA/Notes/FRAMEWORK MITRE ATT&CK.md",
-    "SICUREZZA/Notes/TECNICHE.md",
-    "SICUREZZA/Notes/TATTICHE.md",
-    "SICUREZZA/Notes/CYBERSICUREZZA.md",
-    "SICUREZZA/Notes/THREAT ACTOR.md",
-    "SICUREZZA/Notes/ACTIONS ON OBJECTIVES.md",
-    "SICUREZZA/Notes/PROPRIETA DI SICUREZZA.md",
-    "SICUREZZA/Notes/KEY LOGGERS.md",
-    "SICUREZZA/Notes/LNK windows.md",
-    "SICUREZZA/Notes/ROOTKIT.md",
-    "SICUREZZA/Notes/CYBER CRIMINALI.md",
     "SICUREZZA/Notes",
     "SICUREZZA/Images",
     "Untitled",
@@ -276,7 +347,6 @@
     "MATERIE/ANALISI DEL SOFTWARE/Indexes",
     "MATERIE/ANALISI DEL SOFTWARE/Images",
     "MATERIE/ANALISI DEL SOFTWARE",
-    "MATERIE/FLIPS/Indexes",
-    "MATERIE/FLIPS/Notes"
+    "MATERIE/FLIPS/Indexes"
   ]
 }

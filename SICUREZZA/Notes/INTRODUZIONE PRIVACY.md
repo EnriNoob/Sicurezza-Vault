@@ -63,14 +63,13 @@ E importante perchè utilizzando i servizi online, le applicazioni delle aziende
 - ##### Compliance (conformità)
 	è legato alla legislazione sulla protezione dei dati. In pratica significa che le aziende devono attenersi e rispettare le regole delle leggi. Essere GDPR compliant significa essere **conformi al Regolamento europeo per la protezione dei dati**, rispettarne i princìpi e adottare procedure organizzative e di sicurezza perché il rischio sui dati trattati sia basso, verificando che anche tutta la catena dei responsabili sia compliant, dai titolari ai responsabili esterni.
 
-
 ---
 #### Rischi della privacy
 
 Capiamo innanzitutto la tassonomia della privacy si Solove, creato per capire meglio la privacy e i rischi collegati ad essa, questa tassonomia identifica 4 attività che violano la privacy rispetto ad un data subject (persona a cui i suoi dati sono a rischio)
 1. ==Information Collection==: ovvero quando i dati dal data subject vengono inviati ai data holders
 2. ==Information processing==: i dati dei data holders subiscono delle trasformazioni o alterazioni
-3. ==Information dissemination==: viene riferito dagli utenti come la violazione della privacy e c'è una diffusione e condivisione delle informazioni personali
+3. ==Information dissemination==: viene riferito dagli utenti come è avvenuta la violazione della privacy, perchè c'è una diffusione e condivisione delle informazioni personali
 4. ==Invasion==: riguardano alle situazioni in cui si interferisce con la vita privata
 
 ![[Pasted image 20250107171841.png]]
@@ -123,4 +122,5 @@ Capiamo innanzitutto la tassonomia della privacy si Solove, creato per capire me
 	tutto quello che disturba la tranquillità e normalità di un individuo
 - ##### Decisional Interference
 	Avviene quando c'è una sorta di manipolazione ai danni di un utente per influenzare le sue decisioni
+	
  #### REFERENZE: https://it.wikipedia.org/wiki/Capitalismo_della_sorveglianza, https://www.ibm.com/it-it/topics/data-privacy#:~:text=La%20privacy%20dei%20dati%2C%20chiamata,e%20utilizzano%20i%20suoi%20dati,  https://privacypatterns.org/patterns/Anonymity-set, https://www.profsandhu.com/cs6393_s13/pfitzmann_hansen_2009.pdf, https://www.privacylab.it/IT/979/cosa-vuol-dire-compliance/, https://www.youtube.com/watch?v=nVgrwJnozqE

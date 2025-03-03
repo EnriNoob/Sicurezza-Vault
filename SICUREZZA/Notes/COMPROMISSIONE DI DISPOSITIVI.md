@@ -1,7 +1,7 @@
 #### Data 14/10/2024 - 14:26
 
 #### DISPOSITIVI NON IN UTILIZZO
-Capita spesso che gli attaccanti hanno come target dispositivi vecchi, o meglio che non ==**vengono mantenuti**==, in seguito ad aggiornamenti HW/SW. Questo lascia libertà all'attaccante di direzionare il suo attacco su questi dispositivi non più controllati
+Capita spesso che gli attaccanti hanno come target dispositivi vecchi, o meglio che non ==**vengono mantenuti**==, in seguito alla deprecazione dei sistemi HW/SW. Questo lascia libertà all'attaccante di direzionare il suo attacco su questi dispositivi non più controllati 
 
 ![[Pasted image 20241014142942.png]]
 
